@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\AndroidRel\AndroidStudioSpace\BaiduLocDemo\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d048c62e935aecb1ca1ec2e5cf6abbeb0d4f6d46">
+        <dex dex="F:\AndroidRel\AndroidStudioSpace\BaiduLocDemo\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_40ed1aa01022575c57eb864ff1e368a0594e8a57.jar" />
+    </item>
+
+</items>
