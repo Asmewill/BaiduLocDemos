@@ -6,5 +6,9 @@
     {
         "merged": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
         "source": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemos\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     }
 ]

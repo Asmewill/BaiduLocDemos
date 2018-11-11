@@ -2,13 +2,31 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="F:\AndroidRel\AndroidStudioSpace\BaiduLocDemo\app\libs\BaiduLBS_Android.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="F:\AndroidRel\AndroidStudioSpace\BaiduLocDemos\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="F:\AndroidRel\AndroidStudioSpace\BaiduLocDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9972b60122dd154330c59766ddc632a4436ce29b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidRel\AndroidStudioSpace\BaiduLocDemos\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="d048c62e935aecb1ca1ec2e5cf6abbeb0d4f6d46">
-        <dex dex="F:\AndroidRel\AndroidStudioSpace\BaiduLocDemo\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_40ed1aa01022575c57eb864ff1e368a0594e8a57.jar" />
+        <dex dex="F:\AndroidRel\AndroidStudioSpace\BaiduLocDemos\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_a28b8df7e0a78147965dd8654a84d895b0c75615\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidRel\AndroidStudioSpace\BaiduLocDemos\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3629a2419c2cfdbc203daca4b7ea8896e48fea1c">
+        <dex dex="F:\AndroidRel\AndroidStudioSpace\BaiduLocDemos\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_923b8cb5080ded1c67e67a98ec09d24308b7332e\classes.dex" />
     </item>
 
 </items>

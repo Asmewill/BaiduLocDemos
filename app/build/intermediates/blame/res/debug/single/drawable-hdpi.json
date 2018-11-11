@@ -1,5 +1,13 @@
 [
     {
+        "merged": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemos\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_openmap_focuse_mark.png",
+        "source": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemos\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_focuse_mark.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\baiduMap\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\huaji.png",
         "source": "C:\\Users\\Administrator\\Desktop\\baiduMap\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\huaji.png"
     },
@@ -16,6 +24,10 @@
         "source": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\huaji.png"
     },
     {
+        "merged": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_openmap_mark.png",
+        "source": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemos\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_mark.png"
+    },
+    {
         "merged": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
         "source": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
@@ -30,5 +42,9 @@
     {
         "merged": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_openmap_focuse_mark.png",
         "source": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_focuse_mark.png"
+    },
+    {
+        "merged": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemos\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\huaji.png",
+        "source": "F:\\AndroidRel\\AndroidStudioSpace\\BaiduLocDemos\\app\\src\\main\\res\\drawable-hdpi\\huaji.png"
     }
 ]
